@@ -5,7 +5,8 @@ from gtts import gTTS
 # import Os module to start the audio file
 import os 
 
-name = "mudassir"
+name = "mohammed_mudassir"
+
 mytext = 'i am your friend'
   
 # Language we want to use 
